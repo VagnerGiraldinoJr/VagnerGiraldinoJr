@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um analista de sistemas apaixonado(a) por
 - 🌐 Desenvolvimento Web Front: HTML, CSS, JavaScript, design responsivo, manipulação do DOM e integração com APIs.
 - 🌐 Desenvolvimento Web Back: APIs RESTful, servidores web (Node.js, Apache, Nginx).
 - 📱 Desenvolvimento Mobile: Swift e Objective-C para iOS, Kotlin e Java para Android.
-- ⚙️ Outras habilidades: [Outras Habilidades Relevantes]
+- ⚙️ Outras habilidades: MSProject | MSPowerBI
 
 
 ## Estatísticas GitHub
