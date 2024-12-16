@@ -14,11 +14,10 @@
 **DevOps**: AWS, DigitalOcean, Serverless, GitHub Actions, BitBucket Pipelines, CI/CD 🛠️  
 
 ## O que estou fazendo!
-💻 Atualmente estou trabalhando em [Seu Projeto Atual](https://baston.com.br/)  
-📖 Atualmente estou aprendendo [Tecnologias que você está aprendendo].  
-🙋 Estou buscando colaborar em [Projeto que você deseja colaborar].  
-😨 Estou precisando de ajuda com [Área em que você precisa de ajuda].  
-💸 Pergunte-me sobre [Assuntos que você pode discutir].  
+💻 Atualmente estou trabalhando em [Baston IT](https://baston.com.br/)  
+📖 Atualmente estou aprendendo [Laravel 11 / IA / PY].  
+🙋 Estou buscando colaborar em [Laravel WEB].  
+💸 Pergunte-me sobre [Desenvolvimento WEB].  
 📮 Você pode me encontrar: [Twitter](https://twitter.com/vgiraldino) | [Facebook](https://facebook.com/vgiraldino) | [YouTube](https://youtube.com/vgiraldino).  
 
 ## 🌐 Redes Sociais:
