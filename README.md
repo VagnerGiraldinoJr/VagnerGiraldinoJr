@@ -19,10 +19,10 @@
 🙋 I’m looking to collaborate on [Projeto que você deseja colaborar].  
 😨 I’m looking for help with [Área em que você precisa de ajuda].  
 💸 Ask me about [Assuntos que você pode discutir].  
-📮 Reach me: [Twitter](https://twitter.com/seu_twitter) | [Facebook](https://facebook.com/seu_facebook) | [YouTube](https://youtube.com/seu_youtube).  
+📮 Reach me: [Twitter](https://twitter.com/vgiraldino) | [Facebook](https://facebook.com/vgiraldino) | [YouTube](https://youtube.com/vgiraldino).  
 
 ## 🌐 Socials:
-[Facebook](https://facebook.com/seu_facebook) | [LinkedIn](https://linkedin.com/in/seu-linkedin) | [Twitter](https://twitter.com/seu_twitter)  
+[Facebook](https://facebook.com/vgiraldino) | [LinkedIn](https://linkedin.com/in/vgiraldino) | [Twitter](https://twitter.com/vgiraldino)  
 
 ## 💻 Tech Stack:
 C, CSS3, JavaScript, HTML5, Markdown, PHP, Python, Shell Script, TypeScript, AWS, Cloudflare, DigitalOcean, Netlify, React, NuxtJS, Next JS, Laravel, SASS, TailwindCSS, Vue.js, Apache, Nginx, AmazonDynamoDB, MariaDB, MongoDB, MySQL, Redis, SQLite, Docker, Jira, Postman, Trello, Vagrant, NumPy, Pandas, Go, GraphQL, jQuery, Chart.js  
@@ -34,7 +34,7 @@ C, CSS3, JavaScript, HTML5, Markdown, PHP, Python, Shell Script, TypeScript, AWS
 ![Trophies](https://github-profile-trophy.vercel.app/?username=VagnerGiraldinoJr&theme=radical)
 
 ## 🐦 Latest Tweet
-[![Twitter Follow](https://img.shields.io/twitter/follow/seu_twitter?style=social)](https://twitter.com/seu_twitter)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vgiraldino?style=social)](https://twitter.com/vgiraldino)
 
 ## 💰 You can help me by Donating
 [BuyMeACoffee](https://www.buymeacoffee.com/vgiraldino) | [PayPal](https://www.paypal.me/vgiraldino)
