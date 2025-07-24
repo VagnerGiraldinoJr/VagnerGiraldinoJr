@@ -77,18 +77,6 @@ class VagnerGiraldinoJr extends Developer
 }
 ```
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VagnerGiraldinoJr&theme=radical)
-  
-</div>
-
----
-
 ## 🏆 Conquistas
 
 <div align="center">
