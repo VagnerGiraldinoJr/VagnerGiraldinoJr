@@ -1,44 +1,137 @@
-# E aí time !!! 👋
+# Hey, Devs! 👋 Bem-vindos ao meu GitHub!
 
-## 💫 Sobre nós!
-👨 **Vagner Giraldino Jr**  
-🧢 Analista de Sistemas / Web Developer  
-📍 [Ponta Grossa, Paraná] 🇧🇷  
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=VagnerGiraldinoJr&color=blue&style=flat-square)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vgiraldino)
+  [![Twitter](https://img.shields.io/twitter/follow/vgiraldino?style=social)](https://twitter.com/vgiraldino)
+  
+</div>
 
-## 💻 Meu Tech-Stack
-**Tech Stack**: TALL Stack (Tailwind, Alpine.js, Laravel e Livewire) 🧰  
-**Backend**: PHP, Python, Node.js, Go ⚙️  
-**Frontend**: Alpine.js, React.js, Vue.js, Tailwind, UI Kit, JavaScript, TypeScript, jQuery 🎨  
-**Ferramentas**: Redis, MySQL 🪛  
-**Frameworks**: Laravel, Lumen, Symfony, Next.js, Nuxt.js 😍  
-**DevOps**: AWS, DigitalOcean, Serverless, GitHub Actions, BitBucket Pipelines, CI/CD 🛠️  
+## 🚀 Sobre Mim
 
-## O que estou fazendo!
-💻 Atualmente estou trabalhando em [Baston IT](https://baston.com.br/)  
-📖 Atualmente estou aprendendo [Laravel 11 / IA / PY].  
-🙋 Estou buscando colaborar em [Laravel WEB].  
-💸 Pergunte-me sobre [Desenvolvimento WEB].  
-📮 Você pode me encontrar: [Twitter](https://twitter.com/vgiraldino) | [Facebook](https://facebook.com/vgiraldino) | [YouTube](https://youtube.com/vgiraldino).  
+**Vagner Giraldino Jr** | Analista de Sistemas & Full Stack Developer  
+📍 **Ponta Grossa, Paraná - Brasil** 🇧🇷  
+💼 **Atualmente:** [Baston IT](https://baston.com.br/)  
 
-## 🌐 Redes Sociais:
-[Facebook](https://facebook.com/vgiraldino) | [LinkedIn](https://linkedin.com/in/vgiraldino) | [Twitter](https://twitter.com/vgiraldino)  
+> Desenvolvedor apaixonado por criar soluções elegantes e eficientes. Especialista em Laravel e TALL Stack, com experiência sólida em arquitetura de sistemas e desenvolvimento full-stack.
 
-## 💻 Tech Stack:
-C, CSS3, JavaScript, HTML5, Markdown, PHP, Python, Shell Script, TypeScript, AWS, Cloudflare, DigitalOcean, Netlify, React, NuxtJS, Next JS, Laravel, SASS, TailwindCSS, Vue.js, Apache, Nginx, AmazonDynamoDB, MariaDB, MongoDB, MySQL, Redis, SQLite, Docker, Jira, Postman, Trello, Vagrant, NumPy, Pandas, Go, GraphQL, jQuery, Chart.js  
+---
 
-## 📊 Estatísticas do GitHub:
-![Estatísticas do meu trabalho](https://github-readme-stats.vercel.app/api?username=VagnerGiraldinoJr&show_icons=true&theme=radical)
+## 🛠️ Stack Principal
 
-## 🏆 Troféus do GitHub
-![Troféus](https://github-profile-trophy.vercel.app/?username=VagnerGiraldinoJr&theme=radical)
+### **Backend & APIs**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-## 🐦 Último Tweet
-[![Seguir no Twitter](https://img.shields.io/twitter/follow/vgiraldino?style=social)](https://twitter.com/vgiraldino)
+### **Frontend & UI**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC34A?style=for-the-badge&logo=alpine.js&logoColor=black)
 
-## 📊 Gráfico de Contribuições:
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/DenverCoder1/github-readme-3d-contrib/blob/main/profile-3d-contrib/profile-green-animate.svg">
-    <img src="https://github.com/DenverCoder1/github-readme-3d-contrib/raw/main/profile-3d-contrib/profile-green-animate.svg" alt="Gráfico de Contribuições" style="max-width: 100%;">
-</a>
+### **Banco de Dados & Cache**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 💰 Você pode me ajudar doando
-[BuyMeACoffee](https://www.buymeacoffee.com/vgiraldino) | [PayPal](https://www.paypal.me/vgiraldino)
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 🎯 Especialidades
+
+```php
+<?php
+class VagnerGiraldinoJr extends Developer 
+{
+    public function getCurrentWork(): array 
+    {
+        return [
+            'company' => 'Baston IT',
+            'role' => 'Full Stack Developer',
+            'focus' => ['Laravel', 'TALL Stack', 'System Architecture'],
+            'experience' => '10+ years'
+        ];
+    }
+    
+    public function getExpertise(): array 
+    {
+        return [
+            'frameworks' => ['Laravel', 'Livewire', 'Vue.js', 'React'],
+            'databases' => ['MySQL', 'PostgreSQL', 'Redis', 'MongoDB'],
+            'cloud' => ['AWS', 'DigitalOcean'],
+            'legacy_systems' => ['Totvs Protheus', 'Delphi', 'ERP Development']
+        ];
+    }
+}
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VagnerGiraldinoJr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerGiraldinoJr&layout=compact&langs_count=8&theme=radical"/>
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VagnerGiraldinoJr&theme=radical)
+  
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+  
+  ![Troféus](https://github-profile-trophy.vercel.app/?username=VagnerGiraldinoJr&theme=radical&row=1&column=6)
+  
+</div>
+
+---
+
+## 🤝 Vamos Conectar?
+
+Estou sempre aberto para **colaborações interessantes**, **projetos desafiadores** e **conversas sobre tecnologia**!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vgiraldino)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vgiraldino)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/vgiraldino)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/vgiraldino)
+  
+</div>
+
+---
+
+## 📈 Atividade Recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  
+  ### 💬 "Code is poetry written in logic"
+  
+  **⭐ Se gostou dos meus projetos, deixe uma estrela!**
+  
+</div>
