@@ -1,4 +1,4 @@
-# Hey, Devs! 👋 Bem-vindos ao meu GitHub!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VagnerGiraldinoJr)](https://github.com/VagnerGiraldinoJr/github-readme-stats)
 
 <div align="center">
   
