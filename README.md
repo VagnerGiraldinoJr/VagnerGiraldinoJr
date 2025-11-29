@@ -51,3 +51,31 @@ class VagnerGiraldinoJr extends Developer
         ];
     }
 }
+</td>
+<td width="50%" valign="top">
+  <h3>📊 GitHub Stats</h3>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VagnerGiraldinoJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerGiraldinoJr&layout=compact&theme=dracula"/>
+</td>
+</tr> </table>
+
+<div align="center">
+
+<h3>🛠️ Tech Stack</h3>
+
+<a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp,laravel,python,go,js,ts,react,vue,tailwind,alpinejs,mysql,postgres,redis,mongodb,aws,docker,githubactions%26theme%3Ddark" /> </a>
+
+<br /><br />
+
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DVagnerGiraldinoJr%26theme%3Ddracula%26no-frame%3Dtrue%26row%3D1%26column%3D7" />
+
+</div>
+
+<br />
+
+<div align="center"> <img src="https://www.google.com/search?q=https://github.com/VagnerGiraldinoJr/VagnerGiraldinoJr/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div>
+
+<hr />
+
+<div align="center"> <sub>"Code is poetry written in logic"</sub> <br /> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DVagnerGiraldinoJr%26color%3Dblueviolet%26style%3Dflat-square%26label%3DProfile%2BViews" /> </div>
