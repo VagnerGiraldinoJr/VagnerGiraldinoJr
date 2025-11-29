@@ -14,9 +14,7 @@
   <a href="https://twitter.com/vgiraldino">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;
-  <a href="https://youtube.com/vgiraldino">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+
 
 </div>
 
@@ -49,3 +47,22 @@ class VagnerGiraldinoJr extends Developer
         ];
     }
 }
+
+
+<div align="center">
+
+📊 Estatísticas & Linguagens
+<p align="center"> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DVagnerGiraldinoJr%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" /> <img width="40%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DVagnerGiraldinoJr%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue%26langs_count%3D6" /> </p>
+
+🛠️ Tech Stack
+<a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp,laravel,python,go,js,ts,react,vue,tailwind,alpinejs,mysql,postgres,redis,mongodb,aws,docker,githubactions%26theme%3Ddark" /> </a>
+
+
+
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DVagnerGiraldinoJr%26theme%3Ddracula%26no-frame%3Dtrue%26row%3D1%26column%3D7" />
+
+<hr/>
+
+<p> <sub><i>"Code is poetry written in logic"</i></sub> </p> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DVagnerGiraldinoJr%26color%3Dblueviolet%26style%3Dflat-square%26label%3DProfile%2BViews" />
+
+</div>
