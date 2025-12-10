@@ -46,32 +46,3 @@ class VagnerGiraldinoJr extends SeniorDeveloper
         ];
     }
 }
-
- ```
-
-```markdown
-<div align="center">
-
-### 📊 Estatísticas & Linguagens
-
-<p align="center">
-  <img width="48%" src="[https://github-readme-stats.vercel.app/api?username=VagnerGiraldinoJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=VagnerGiraldinoJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)" />
-  <img width="40%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerGiraldinoJr&layout=compact&theme=dracula&hide_border=true&langs_count=6](https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerGiraldinoJr&layout=compact&theme=dracula&hide_border=true&langs_count=6)" />
-</p>
-
-### 🛠️ Tech Stack & Tools
-
-<a href="[https://skillicons.dev](https://skillicons.dev)">
-  <img src="[https://skillicons.dev/icons?i=php,laravel,python,nodejs,go,kafka,postgres,mysql,oracle,docker,aws,redis,react,vue,tailwind,githubactions&theme=dark](https://skillicons.dev/icons?i=php,laravel,python,nodejs,go,kafka,postgres,mysql,oracle,docker,aws,redis,react,vue,tailwind,githubactions&theme=dark)" />
-</a>
-
-<br/><br/>
-[![trophy](https://github-profile-trophy.vercel.app/?VagnerGiraldinoJr)](https://github.com/VagnerGiraldinoJr/github-profile-trophy)
-<img src="[https://github-profile-trophy.vercel.app/?username=VagnerGiraldinoJr&theme=dracula&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=VagnerGiraldinoJr&theme=dracula&no-frame=true&row=1&column=7)" />
-
-<hr/>
-
-<p> <sub><i>"Transforming logic into scalable, high-performance architecture."</i></sub> </p>
-<img src="[https://komarev.com/ghpvc/?username=VagnerGiraldinoJr&color=blueviolet&style=flat-square&label=Profile+Views](https://komarev.com/ghpvc/?username=VagnerGiraldinoJr&color=blueviolet&style=flat-square&label=Profile+Views)" />
-
-</div>
