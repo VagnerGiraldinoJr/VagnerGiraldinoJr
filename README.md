@@ -47,9 +47,7 @@ class VagnerGiraldinoJr extends SeniorDeveloper
     }
 }
 
-### PARTE 3: Rodapé (Estatísticas e Ícones)
-
-Cole isso logo abaixo da Parte 2 (que fechou com ```).
+ ```
 
 ```markdown
 <div align="center">
