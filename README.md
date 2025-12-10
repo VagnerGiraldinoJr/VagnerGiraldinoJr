@@ -66,7 +66,7 @@ class VagnerGiraldinoJr extends SeniorDeveloper
 </a>
 
 <br/><br/>
-
+[![trophy](https://github-profile-trophy.vercel.app/?VagnerGiraldinoJr)](https://github.com/VagnerGiraldinoJr/github-profile-trophy)
 <img src="[https://github-profile-trophy.vercel.app/?username=VagnerGiraldinoJr&theme=dracula&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=VagnerGiraldinoJr&theme=dracula&no-frame=true&row=1&column=7)" />
 
 <hr/>
