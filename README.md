@@ -46,11 +46,11 @@ class VagnerGiraldinoJr extends SeniorDeveloper
         ];
     }
 }
+
 <div align="center">
 
 📊 Estatísticas & Linguagens
 <p align="center"> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DVagnerGiraldinoJr%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" /> <img width="40%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DVagnerGiraldinoJr%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue%26langs_count%3D6" /> </p>
-
 
 🛠️ Tech Stack & Tools
 <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp,laravel,python,nodejs,go,kafka,postgres,mysql,oracle,docker,aws,redis,react,vue,tailwind,githubactions%26theme%3Ddark" /> </a>
@@ -64,3 +64,4 @@ class VagnerGiraldinoJr extends SeniorDeveloper
 <p> <sub><i>"Transforming logic into scalable, high-performance architecture."</i></sub> </p> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DVagnerGiraldinoJr%26color%3Dblueviolet%26style%3Dflat-square%26label%3DProfile%2BViews" />
 
 </div>
+
