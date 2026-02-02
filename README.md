@@ -5,7 +5,7 @@
   </a>
 
   <p>
-    📍 <b>Ponta Grossa, Paraná - Brasil</b> 🇧🇷 | 💼 Atualmente: <a href="https://baston.com.br/"><b>Baston IT</b></a>
+    📍 <b>Ponta Grossa, Paraná - Brasil</b> 🇧🇷 
   </p>
 
   <a href="https://linkedin.com/in/vgiraldino">
