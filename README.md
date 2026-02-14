@@ -45,7 +45,7 @@ const vagner = {
         experience: "10+ years",
         enterpriseProjects: "10+",
         companiesServed: "5+",
-        developersToMentored: "20+",
+        developersMentored: "20+",
         workshops: "15+",
     },
     
@@ -218,6 +218,8 @@ A revolutionary customer support automation platform that leverages AI to provid
 - ✅ **85% automation** of routine inquiries
 - ✅ **95% customer satisfaction** rate
 - ✅ Handles **1000+ conversations/day** seamlessly
+
+> *Note: Impact metrics are representative figures based on production environment performance.*
 
 **🔧 Technical Highlights:**
 ```php
@@ -395,9 +397,6 @@ services_offered:
   </a>
   <a href="https://github.com/VagnerGiraldinoJr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:vagner@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
