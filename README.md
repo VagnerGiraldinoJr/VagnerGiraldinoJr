@@ -39,17 +39,23 @@ Meu trabalho começa antes do código: entender como a operação do cliente fun
 
 ### 📋 [wpp-trello-copilot](https://github.com/VagnerGiraldinoJr/wpp-trello-copilot)
 **Problema:** demandas de clientes se perdem no meio das conversas de WhatsApp.
+
 **Solução:** uma extensão de Chrome captura as conversas do WhatsApp Web, o Laravel processa, uma IA local (Ollama) decide o que é demanda, resume e cria o card no Trello, com resposta de volta para o WhatsApp. Os dados não saem da máquina.
+
 `Laravel 13` `PHP 8.4` `Livewire` `Chrome Extension (MV3)` `Ollama` `SQLite` `Docker / GHCR`
 
 ### 📦 [z-api-laravel-sdk](https://github.com/VagnerGiraldinoJr/z-api-laravel-sdk)
 **Problema:** integrar WhatsApp via Z-API em vários projetos repetia o mesmo código.
+
 **Solução:** pacote Laravel com instalação por comando Artisan, envio de botões com DTOs, webhooks que disparam eventos nativos e suporte a multi-tenancy.
+
 `PHP 8.2–8.4` `Laravel 10–12` `GitHub Actions (CI)` `DTOs` `Webhooks`
 
 ### 💼 [CPF Clean Brasil](https://github.com/VagnerGiraldinoJr/regulariza)
 **Problema:** um negócio de regularização de crédito precisava controlar funil, contratos, parcelas, comissões e atendimento em um só lugar.
+
 **Solução:** plataforma com funil público, portal do cliente, painéis para analistas e administração, contratos parcelados, saque de comissões via PIX, SAC com chat e deploy em VPS por script.
+
 `Laravel 12` `PHP 8.4` `MySQL` `Redis + filas` `Asaas` `Z-API` `Docker Compose`
 
 ### 🔗 Outros repositórios
