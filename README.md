@@ -1,430 +1,87 @@
 <div align="center">
 
-  <!-- Animated Banner with Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF2D20&background=00000000&center=true&vCenter=true&width=600&lines=Vagner+Giraldino+Jr;Senior+PHP+%26+Laravel+Developer;TALL+Stack+Expert;AI+Integration+Specialist;Software+Architecture+%7C+Mentorship;10%2B+Years+Building+Enterprise+Solutions" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=FF2D20&center=true&vCenter=true&width=680&lines=Vagner+Giraldino+Jr;Desenvolvedor+S%C3%AAnior+PHP+%26+Laravel;Integra%C3%A7%C3%B5es%3A+ERP%2C+WhatsApp%2C+Pagamentos;IA+aplicada+a+processos+reais" alt="Vagner Giraldino Jr" />
 
-  <!-- Profile Metrics Badges -->
-  <p>
-    <img src="https://img.shields.io/github/followers/VagnerGiraldinoJr?label=Followers&style=social" alt="GitHub Followers" />
-    <img src="https://komarev.com/ghpvc/?username=VagnerGiraldinoJr&color=FF2D20&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  </p>
+**Analista de Sistemas · Desenvolvedor Sênior** · Ponta Grossa, PR 🇧🇷
 
-  <p>
-    📍 <b>Ponta Grossa, Paraná - Brasil</b> 🇧🇷 
-  </p>
+<a href="https://linkedin.com/in/vgiraldino"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://vgit.com.br"><img src="https://img.shields.io/badge/vgit.com.br-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" /></a>
+<a href="mailto:contato@vgit.com.br"><img src="https://img.shields.io/badge/contato@vgit.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://wa.me/5511996190016"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+
+<sub>🇺🇸 Senior PHP/Laravel developer from Brazil, focused on business systems, integrations (ERP, WhatsApp, payments) and practical AI. Open to remote work.</sub>
 
 </div>
+
+---
+
+## 👋 Sobre mim
+
+Analista de sistemas e desenvolvedor sênior, com **10+ anos** criando software para empresas e com empresa própria desde **2017**.
+
+Meu trabalho começa antes do código: entender como a operação do cliente funciona de verdade, desenhar a solução e entregar sistemas **claros, documentados e fáceis de manter**.
+
+- 🐘 **Laravel no dia a dia** — sistemas web, APIs, painéis e pacotes, do PHP 8.2 ao 8.4 e do Laravel 10 ao 13
+- 🔌 **Integrações** — WhatsApp (Z-API, Evolution API), pagamentos (Asaas), Trello, APIs públicas e ERPs como o **TOTVS Protheus**
+- 🤖 **IA aplicada** — OpenAI, modelos locais com Ollama e RAG com pgvector, sempre ligados a um problema real
+- 🐳 **Da máquina ao servidor** — Docker Compose, filas com Redis, deploy automatizado em VPS e imagens publicadas no GHCR
+- 🖥️ **Legado** — sistemas Delphi, manutenção e migração para a web
+
+## 🧰 Stack e ambiente de trabalho
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,alpinejs,vite,js,ts,react,mysql,postgres,sqlite,redis,docker,githubactions,linux,nginx,git,vscode&theme=dark&perline=9" alt="Stack" />
 </p>
 
-## 👋 Welcome to My Dev Universe!
+**Também:** Livewire · Pest/PHPUnit · Ollama (Llama) · OpenAI API · pgvector · Z-API · Evolution API · Asaas · TOTVS Protheus (ADVPL/TL++) · Delphi · Oracle · SQL Server
 
-<div align="center">
-  
-```typescript
-const vagner = {
-    name: "Vagner Giraldino Jr",
-    role: "Senior Full Stack Developer & Software Architect",
-    location: "Ponta Grossa, PR - Brazil",
-    
-    expertise: {
-        backend: ["PHP", "Laravel 11", "Livewire 3", "Node.js", "Python", "Go"],
-        tallStack: ["Tailwind CSS", "Alpine.js", "Livewire", "Laravel"],
-        frontend: ["Vue.js", "React", "TypeScript", "TailwindCSS"],
-        databases: ["PostgreSQL", "pgvector", "MySQL", "Oracle", "Redis"],
-        ai: ["OpenAI GPT-4", "RAG Pipelines", "LangChain", "Vector Stores", "Embeddings"],
-        cloud: ["AWS", "Docker", "Kubernetes", "Microservices"],
-        architecture: ["Clean Code", "DDD", "SOLID", "Design Patterns"]
-    },
-    
-    achievements: {
-        experience: "10+ years",
-        enterpriseProjects: "10+",
-        companiesServed: "5+",
-        developersMentored: "20+",
-        workshops: "15+",
-    },
-    
-    currentFocus: ["AI Integration", "Laravel Ecosystem", "Cloud Architecture"],
-    motto: "Transforming logic into high-impact solutions 🚀"
-};
-```
+## 🔥 Projetos em destaque
 
-</div>
+### 📋 [wpp-trello-copilot](https://github.com/VagnerGiraldinoJr/wpp-trello-copilot)
+**Problema:** demandas de clientes se perdem no meio das conversas de WhatsApp.
+**Solução:** uma extensão de Chrome captura as conversas do WhatsApp Web, o Laravel processa, uma IA local (Ollama) decide o que é demanda, resume e cria o card no Trello, com resposta de volta para o WhatsApp. Os dados não saem da máquina.
+`Laravel 13` `PHP 8.4` `Livewire` `Chrome Extension (MV3)` `Ollama` `SQLite` `Docker / GHCR`
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+### 📦 [z-api-laravel-sdk](https://github.com/VagnerGiraldinoJr/z-api-laravel-sdk)
+**Problema:** integrar WhatsApp via Z-API em vários projetos repetia o mesmo código.
+**Solução:** pacote Laravel com instalação por comando Artisan, envio de botões com DTOs, webhooks que disparam eventos nativos e suporte a multi-tenancy.
+`PHP 8.2–8.4` `Laravel 10–12` `GitHub Actions (CI)` `DTOs` `Webhooks`
 
-## 🏆 GitHub Trophies
+### 💼 [CPF Clean Brasil](https://github.com/VagnerGiraldinoJr/regulariza)
+**Problema:** um negócio de regularização de crédito precisava controlar funil, contratos, parcelas, comissões e atendimento em um só lugar.
+**Solução:** plataforma com funil público, portal do cliente, painéis para analistas e administração, contratos parcelados, saque de comissões via PIX, SAC com chat e deploy em VPS por script.
+`Laravel 12` `PHP 8.4` `MySQL` `Redis + filas` `Asaas` `Z-API` `Docker Compose`
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VagnerGiraldinoJr&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+### 🔗 Outros repositórios
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| [xano-ai-integration-bridge](https://github.com/VagnerGiraldinoJr/xano-ai-integration-bridge) | Integração com API de IA com cache, retry e timeout configuráveis | Laravel 11 · Service Pattern |
+| [consulta-cnpj](https://github.com/VagnerGiraldinoJr/consulta-cnpj) | Validação em lote de CNPJs a partir de arquivo, via ReceitaWS | Laravel · Bootstrap |
+| [email-job-system](https://github.com/VagnerGiraldinoJr/email-job-system) | Envio de e-mails assíncrono e agendado com Jobs, Queues e Scheduler | Laravel · Filas |
+| [vendedorplus_V2](https://github.com/VagnerGiraldinoJr/vendedorplus_V2) | Gestão para vendedores porta a porta | Laravel |
+| [sis_ccb](https://github.com/VagnerGiraldinoJr/sis_ccb) | Gestão de portaria e enfermaria | Laravel |
 
-## 📊 GitHub Statistics
+### 🔒 Projetos privados em produção
 
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VagnerGiraldinoJr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=c9d1d9" alt="GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerGiraldinoJr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF2D20&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  
-</div>
+- **Atendimento com IA no WhatsApp** — RAG com OpenAI e pgvector sobre a base de conhecimento do cliente, integrado via Evolution API. [Resultado real: ex. X% das dúvidas resolvidas sem atendente]
+- **Integrações com TOTVS Protheus** — [descreva uma: pedidos, notas, estoque…]
 
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VagnerGiraldinoJr&theme=radical&hide_border=true&background=0d1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" alt="GitHub Streak" />
-  
-</div>
+**Empresas atendidas:** Natura · Hinode · Baston · Gera · Ideal Trends
 
-<div align="center">
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VagnerGiraldinoJr&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FF2D20&line=FF2D20&point=c9d1d9" alt="Contribution Graph" />
-  
-</div>
+## 💼 Como posso ajudar
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 💻 Tech Stack
+- Criar e evoluir sistemas e APIs em **Laravel**
+- **Integrar** sistemas web com WhatsApp, meios de pagamento e ERPs como o Protheus
+- **Modernizar** sistemas legados sem parar a operação
+- Colocar **IA** em processos onde ela realmente traz retorno
+- Revisão de código, arquitetura e **mentoria** de desenvolvedores
 
 <div align="center">
 
-### 🐘 PHP & Laravel (Core Expertise)
+---
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
-</p>
+📫 Aberto a projetos e oportunidades, remoto ou em Ponta Grossa/PR.
+**[vgit.com.br](https://vgit.com.br)** · **[contato@vgit.com.br](mailto:contato@vgit.com.br)** · **[WhatsApp (11) 99619-0016](https://wa.me/5511996190016)** · **[LinkedIn](https://linkedin.com/in/vgiraldino)**
 
-### 🎨 TALL Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine" />
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-</p>
-
-### 🔧 Backend & Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
-</p>
-
-### 🛠️ Tools & Others
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,alpine,nodejs,python,go,typescript,vue,react,postgres,mysql,redis,docker,kubernetes,aws,kafka,linux,git,nginx&theme=dark&perline=10" alt="Tech Stack Icons" />
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 🔥 Featured Projects
-
-### 🐘 **OpenClaw** - AI-Powered Customer Support Automation
-
-> Intelligent customer support system combining Laravel's power with cutting-edge AI technology
-
-<div align="left">
-
-**🎯 What is it?**
-A revolutionary customer support automation platform that leverages AI to provide contextual, intelligent responses through WhatsApp Business integration.
-
-**💡 Tech Stack:**
-- **Backend:** Laravel 11 + Livewire 3
-- **AI Engine:** OpenAI GPT-4 with RAG (Retrieval-Augmented Generation)
-- **Database:** PostgreSQL with pgvector for embeddings
-- **Integration:** Evolution API for WhatsApp Business
-- **Cache:** Redis for high-performance data handling
-- **Infrastructure:** Docker + Microservices Architecture
-
-**✨ Key Features:**
-- 🤖 AI-powered contextual responses using RAG pipelines
-- 💬 Seamless WhatsApp Business integration via Evolution API
-- 🔍 Vector search with pgvector for semantic similarity
-- 📊 Real-time dashboard built with Livewire 3
-- ⚡ High-performance embeddings pipeline
-- 🏗️ Scalable microservices architecture
-- 🔐 Enterprise-grade security and data handling
-
-**📈 Impact:**
-- ✅ **70% reduction** in customer response time
-- ✅ **85% automation** of routine inquiries
-- ✅ **95% customer satisfaction** rate
-- ✅ Handles **1000+ conversations/day** seamlessly
-
-> *Note: Impact metrics are representative figures based on production environment performance.*
-
-**🔧 Technical Highlights:**
-```php
-// RAG Pipeline with pgvector semantic search
-class RAGService {
-    public function getContextualAnswer(string $query): string {
-        $embedding = $this->openAI->createEmbedding($query);
-        $similarDocs = $this->vectorStore->search($embedding, limit: 5);
-        return $this->openAI->generateResponse($query, $similarDocs);
-    }
-}
-```
-
-</div>
-
-### 🚀 Other Notable Projects
-
-<details>
-<summary><b>🛒 High-Performance E-commerce Platform</b></summary>
-
-- **Stack:** Laravel + Vue.js + Redis + PostgreSQL
-- **Scale:** 50,000+ products, 10,000+ daily transactions
-- **Features:** Real-time inventory, payment gateway integration, advanced analytics
-- **Impact:** 40% increase in conversion rate
-
-</details>
-
-<details>
-<summary><b>📊 Multi-Level Marketing Platform</b></summary>
-
-- **Stack:** Laravel + TALL Stack + MySQL
-- **Scale:** 5,000+ active users, complex commission calculations
-- **Features:** Real-time genealogy tree, automated payouts, gamification
-- **Impact:** Manages $500K+ monthly transactions
-
-</details>
-
-<details>
-<summary><b>🔌 Enterprise RESTful API Gateway</b></summary>
-
-- **Stack:** Laravel + API Gateway + Microservices
-- **Scale:** 1M+ requests/day across multiple services
-- **Features:** OAuth2, rate limiting, request transformation, monitoring
-- **Impact:** Unified API layer for 10+ microservices
-
-</details>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 📊 Metrics & Achievements
-
-<div align="center">
-
-| 🎯 Metric | 📈 Value | 
-|-----------|----------|
-| 💼 **Years of Experience** | **10+** |
-| 🚀 **Enterprise Projects Delivered** | **10+** |
-| 🏢 **Companies Served** | **5+** |
-| 👥 **Developers Mentored** | **20+** |
-| 🎓 **Workshops & Talks** | **15+** |
-| ⭐ **Primary Expertise** | **Laravel, AI, Cloud** |
-| 🌍 **Code Impact** | **1M+ lines in production** |
-| 🔥 **Current Focus** | **AI Integration & TALL Stack** |
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 🎓 Skills & Certifications
-
-<div align="center">
-
-### 💪 Skill Proficiency
-
-```text
-PHP & Laravel           ████████████████████   100%
-TALL Stack             ███████████████████░    95%
-Software Architecture  ██████████████████░░    90%
-AI Integration         ████████████████░░░░    85%
-Cloud & DevOps         ███████████████░░░░░    80%
-Frontend Development   ███████████████░░░░░    75%
-```
-
-### 🏅 Certifications & Expertise
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Expert" />
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Scrum-Master-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Clean_Code-Expert-00ADD8?style=for-the-badge&logo=clean-code&logoColor=white" alt="Clean Code" />
-  <img src="https://img.shields.io/badge/Microservices-Architect-326CE5?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
-  <img src="https://img.shields.io/badge/AI-Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-</p>
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 🤝 Companies & Success Cases
-
-<div align="center">
-
-### 🏢 Trusted by Leading Organizations
-
-<p>
-  <img src="https://img.shields.io/badge/Baston-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white" alt="Baston" />
-  <img src="https://img.shields.io/badge/Gera-00A859?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white" alt="Gera" />
-  <img src="https://img.shields.io/badge/Natura-FF6B00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white" alt="Natura" />
-  <img src="https://img.shields.io/badge/Ideal_Trends-0066CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white" alt="Ideal Trends" />
-  <img src="https://img.shields.io/badge/Hinode-8B4513?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white" alt="Hinode" />
-</p>
-
-**Case Highlights:**
-- 🏆 Built scalable e-commerce platforms handling millions in transactions
-- 🚀 Architected microservices for enterprise-level applications
-- 💡 Implemented AI-driven solutions reducing operational costs by 40%
-- 🌐 Delivered mission-critical APIs serving 100K+ requests/day
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/VagnerGiraldinoJr/VagnerGiraldinoJr/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 💼 I'm Available For
-
-<div align="center">
-
-```yaml
-services_offered:
-  - 🏗️  Software Architecture Consulting
-  - 🐘  Laravel Development & Optimization
-  - 🤖  AI Integration in Web Applications
-  - 👨‍🏫  Technical Mentorship (Individual & Group)
-  - 🔍  Code Review & Performance Optimization
-  - 🎤  Tech Talks & Workshops on PHP/Laravel/AI
-  - 🚀  Enterprise Application Development
-  - ☁️   Cloud Architecture & DevOps Strategy
-```
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<p>
-  <a href="https://linkedin.com/in/vgiraldino" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/VagnerGiraldinoJr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Open_to_Opportunities-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Opportunities" />
-  <img src="https://img.shields.io/badge/Remote_Work-4285F4?style=for-the-badge&logo=google-meet&logoColor=white" alt="Remote Work" />
-</p>
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<div align="center">
-  
-  ### 💭 Random Dev Quote
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-  ---
-  
-  ### ✍️ Thank You for Visiting!
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!;Always+learning%2C+always+growing+🚀;PHP+%7C+Laravel+%7C+AI+%7C+Cloud;Open+for+collaboration+and+opportunities!" alt="Closing SVG" />
-  
-  <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=100&section=footer" alt="Footer Wave" />
-  </p>
-  
 </div>
